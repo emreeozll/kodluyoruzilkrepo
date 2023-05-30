@@ -1,4 +1,4 @@
-#**Kodluyoruz Ilk Repo**
+# **Kodluyoruz Ilk Repo**
 
 Bu repo [kodluyoruz](https://academy.patika.dev/courses/git/odev1) Front-end Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
@@ -12,7 +12,7 @@ Bu repo [kodluyoruz](https://academy.patika.dev/courses/git/odev1) Front-end Eğ
 https://github.com/emreeozll/kodluyoruzilkrepo.git
 ```
 
-##**Usage**
+## **Usage**
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -22,11 +22,11 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##**Contributing**
+## **Contributing**
 
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
-##**License**
+## **License**
 
 [MIT](https://opensource.org/license/mit/)
